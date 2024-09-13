@@ -1,11 +1,15 @@
-### [The data for this project is sourced from the Kaggle dataset:
-
-Dataset Link: Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
 
 ### Netflix Case Study 
 
 Welcome to the Netflix Case Study! This document provides a comprehensive overview of the tasks and analyses performed on Netflix’s content database. The goal of this case study is to derive actionable insights and patterns from the dataset, which includes information on movies and TV shows. The analysis focuses on content categorization, trend identification, and content-specific metrics. Below is a detailed description of each analysis performed:
+
+
+
+### [The data for this project is sourced from the Kaggle dataset:
+
+Dataset Link: Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+
 
 ---
 
