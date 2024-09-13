@@ -13,6 +13,8 @@ Dataset Link: Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-sh
 
 # Create Code:
 
+
+```sql
 DROP TABLE IF EXISTS netflix;
 CREATE TABLE netflix
 (
@@ -29,7 +31,7 @@ CREATE TABLE netflix
     listed_in    VARCHAR(250),
     description  VARCHAR(550)
 );
-
+```
 
 ---
 
